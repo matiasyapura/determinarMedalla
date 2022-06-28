@@ -1,0 +1,2 @@
+# determinarMedalla
+Created with CodeSandbox
